@@ -125,9 +125,12 @@ DATA_SOURCE.txt                 Provenance and interpretation limits
 
 ## Status and AI assistance
 
-Analysis and initial documentation are prepared. The portfolio is **ongoing**:
-a real classmate review and a corresponding improvement commit are still
-pending. Automated tests are not a substitute for that review.
+Analysis and documentation are prepared. The portfolio is **ongoing** because
+the data are hypothetical. Classmate feedback has been received and addressed
+with a new side-by-side ranking table. The
+[feedback record](https://github.com/zzc1565545/data-science-portfolio/blob/main/PEER_REVIEW.md)
+distinguishes the new table from the written rankings that already existed.
+Automated tests are separate from the classmate review.
 
 OpenAI Codex assisted with code, visualization design, documentation and
 checks. The work is an AI-assisted learning exercise, not an independently
