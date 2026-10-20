@@ -1,0 +1,58 @@
+{
+  "title": "Hypothetical commuting scenarios",
+  "warning": "NOT A UM TRANSPORT STUDY",
+  "data_kind": "hand-assigned hypothetical scenario summaries",
+  "provenance": "Hand-assigned hypothetical quantiles reused from Practice 07; no observed trips.",
+  "units": "door-to-door minutes",
+  "number_of_scenarios": 4,
+  "observed_trip_count": 0,
+  "extra_allowance_definition": "P90 minus P50, in minutes",
+  "rows": [
+    {
+      "mode": "Bicycle",
+      "p50": 14,
+      "p90": 20,
+      "extra_allowance": 6
+    },
+    {
+      "mode": "Public bus",
+      "p50": 18,
+      "p90": 38,
+      "extra_allowance": 20
+    },
+    {
+      "mode": "Campus shuttle",
+      "p50": 20,
+      "p90": 30,
+      "extra_allowance": 10
+    },
+    {
+      "mode": "Walking",
+      "p50": 25,
+      "p90": 28,
+      "extra_allowance": 3
+    }
+  ],
+  "p50_order": [
+    "Bicycle",
+    "Public bus",
+    "Campus shuttle",
+    "Walking"
+  ],
+  "extra_allowance_order": [
+    "Public bus",
+    "Campus shuttle",
+    "Bicycle",
+    "Walking"
+  ],
+  "limitations": [
+    "No trips were observed and no percentiles were estimated.",
+    "P90-P50 is not a confidence interval or a standard deviation.",
+    "Two assumed quantiles cannot establish the full distribution.",
+    "The scenario cannot support real-world transport recommendations."
+  ],
+  "public_bus_minus_walking": {
+    "p50_minutes": -7,
+    "p90_minutes": 10
+  }
+}
