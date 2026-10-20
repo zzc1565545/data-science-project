@@ -1,0 +1,24 @@
+DATA SOURCE AND LIMITATIONS
+
+The four records in data/commute_scenarios.json are hand-assigned hypothetical
+values reused from the author's Practice 07 visualization. They are not a
+survey, travel log, official transport timetable, or measurements of any route.
+No personal information or observations of people are included.
+
+The supplied P50 and P90 values are assumed scenario summaries. The analysis
+does not estimate percentiles from individual observations. There is no
+underlying trip-level sample, sample size, date range, or geographic coverage.
+P50 means a median and P90 a 90th percentile only within this assumed scenario.
+
+P90 minus P50 is the extra time between the two supplied reference points.
+It is not a standard deviation, confidence interval, probability of delay,
+or complete measure of reliability. Two quantiles cannot reconstruct a
+distribution or show how often either mode is quicker on the same journey.
+
+NOT A UM TRANSPORT STUDY. The labels are illustrative and must not be read
+as findings about University of Macau transport or real commuting choices.
+The project demonstrates reproducible comparison and visualization, not a
+real-world transport recommendation.
+
+No external data were downloaded. No claim about an external dataset's
+license is made. There is no restriction implied about any real operator.
