@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="547.2pt" viewBox="0 0 864 547.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 547.2 
+L 864 547.2 
+L 864 0 
+L 0 0 
+z
+" style="fill: #fcfcf8"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 181.44 415.872 
+L 786.24 415.872 
+L 786.24 142.272 
+L 181.44 142.272 
+z
+" style="fill: #fcfcf8"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 181.44 415.872 
+L 181.44 142.272 
+" clip-path="url(#p09cbca0014)" style="fill: none; stroke: #dce3e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536873" x="181.44" y="434.990125" transform="rotate(-0 181.44 434.990125)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 302.4 415.872 
+L 302.4 142.272 
+" clip-path="url(#p09cbca0014)" style="fill: none; stroke: #dce3e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536873" x="302.4" y="434.990125" transform="rotate(-0 302.4 434.990125)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 423.36 415.872 
+L 423.36 142.272 
+" clip-path="url(#p09cbca0014)" style="fill: none; stroke: #dce3e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536873" x="423.36" y="434.990125" transform="rotate(-0 423.36 434.990125)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 544.32 415.872 
+L 544.32 142.272 
+" clip-path="url(#p09cbca0014)" style="fill: none; stroke: #dce3e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536873" x="544.32" y="434.990125" transform="rotate(-0 544.32 434.990125)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 665.28 415.872 
+L 665.28 142.272 
+" clip-path="url(#p09cbca0014)" style="fill: none; stroke: #dce3e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536873" x="665.28" y="434.990125" transform="rotate(-0 665.28 434.990125)">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 786.24 415.872 
+L 786.24 142.272 
+" clip-path="url(#p09cbca0014)" style="fill: none; stroke: #dce3e5; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536873" x="786.24" y="434.990125" transform="rotate(-0 786.24 434.990125)">25</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #18323d" x="483.84" y="460.603875" transform="rotate(-0 483.84 460.603875)">Extra allowance = assumed P90 - assumed P50 (minutes)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #18323d" x="171.44" y="185.916777" transform="rotate(-0 171.44 185.916777)">Public bus</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #18323d" x="171.44" y="251.059634" transform="rotate(-0 171.44 251.059634)">Campus shuttle</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #18323d" x="171.44" y="316.202491" transform="rotate(-0 171.44 316.202491)">Bicycle</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #18323d" x="171.44" y="381.345348" transform="rotate(-0 171.44 381.345348)">Walking</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 181.44 415.872 
+L 181.44 142.272 
+" clip-path="url(#p09cbca0014)" style="fill: none; stroke: #18323d; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 181.44 164.420571 
+L 665.28 164.420571 
+L 665.28 198.294857 
+L 181.44 198.294857 
+z
+" clip-path="url(#p09cbca0014)" style="fill: #b96a16"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 181.44 229.563429 
+L 423.36 229.563429 
+L 423.36 263.437714 
+L 181.44 263.437714 
+z
+" clip-path="url(#p09cbca0014)" style="fill: #147d80"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 181.44 294.706286 
+L 326.592 294.706286 
+L 326.592 328.580571 
+L 181.44 328.580571 
+z
+" clip-path="url(#p09cbca0014)" style="fill: #147d80"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 181.44 359.849143 
+L 254.016 359.849143 
+L 254.016 393.723429 
+L 181.44 393.723429 
+z
+" clip-path="url(#p09cbca0014)" style="fill: #147d80"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18323d" x="675.28" y="184.944902" transform="rotate(-0 675.28 184.944902)">20 min</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18323d" x="433.36" y="250.087759" transform="rotate(-0 433.36 250.087759)">10 min</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18323d" x="336.592" y="315.230616" transform="rotate(-0 336.592 315.230616)">6 min</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18323d" x="264.016" y="380.373473" transform="rotate(-0 264.016 380.373473)">3 min</text>
+   </g>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147d80" x="64.8" y="32.832" transform="rotate(-0 64.8 32.832)">SCENARIO LAB  /  02</text>
+  </g>
+  <g id="text_17">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18323d" x="64.8" y="64.0224" transform="rotate(-0 64.8 64.0224)">The gap between the two reference points</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536873" x="64.8" y="90.288" transform="rotate(-0 64.8 90.288)">P90 minus P50 isolates extra time; it does not measure total journey time.</text>
+  </g>
+  <g id="text_19">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b96a16" x="64.8" y="489.744" transform="rotate(-0 64.8 489.744)">NOT A UM TRANSPORT STUDY</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536873" x="64.8" y="510.5376" transform="rotate(-0 64.8 510.5376)">Source: hand-assigned hypothetical values from Practice 07; no observed trips.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536873" x="64.8" y="528.048" transform="rotate(-0 64.8 528.048)">Zero-based bars show exact differences; a smaller gap does not necessarily mean a faster journey.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p09cbca0014">
+   <rect x="181.44" y="142.272" width="604.8" height="273.6"/>
+  </clipPath>
+ </defs>
+</svg>
